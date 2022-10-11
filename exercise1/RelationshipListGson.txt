@@ -1,0 +1,1 @@
+[{"batchName":"nam","interviewerId":[1,2,4],"candidateId":[5]}]

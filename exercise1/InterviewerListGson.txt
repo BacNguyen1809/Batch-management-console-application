@@ -1,0 +1,1 @@
+[{"experience":12,"id":1,"candidateName":"nan","gender":2,"birthDate":"12-12-1212","email":"bac@jc.com"},{"experience":12,"id":2,"candidateName":"hai","gender":2,"birthDate":"1-1-212","email":"bac@kjj.com"},{"experience":12,"id":4,"candidateName":"hoang","gender":2,"birthDate":"1-12-2121","email":"bax@jf.com"}]

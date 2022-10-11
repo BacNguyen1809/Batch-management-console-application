@@ -1,0 +1,1 @@
+[{"gpa":6.0,"status":"UnKnown","id":3,"candidateName":"nam","gender":2,"birthDate":"12-12-1222","email":"nac@kkc.com"},{"gpa":6.0,"status":"pass","id":5,"candidateName":"ya","gender":2,"birthDate":"12-12-121212","email":"hsa@hc.com"},{"gpa":7.0,"status":"UnKnown","id":10,"candidateName":"a","gender":2,"birthDate":"12-12-1212","email":"bac@kkc.com"}]
